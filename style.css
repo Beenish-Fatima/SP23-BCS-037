@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border: 2px solid red;
+    length:6px;
+    height: 250px;
+    background-image: url(/image1.jpg);
+}
+.navbar li{
+    display: inline-block;
+    border:2px solid pink;
+    width: 230px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(22, 147, 105, 0.5);
+}
+.content{
+    border: 2px solid red;
+    position: absolute;
+    display: inline-block;
+    height: 400px;
+    width: 420px;
+    left:10%;
+}
+.list{
+    border: 2px solid red;
+    position: absolute;
+    display: inline-block;
+    right: 10%;
+    height: 300px;
+    width: 250px;
+}
+.itemslist{
+    position: absolute;
+    display: inline-block;
+    width: 170px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.x1{
+    border: 2px solid black;
+    width: 200px;
+    height: 40px;
+}
+.x2{
+    border: 2px solid black;
+    width: 200px;
+    height: 40px;
+}
+.x3{
+    border: 2px solid black;
+    width: 200px;
+    height: 40px;
+}
+.x4{
+    border: 2px solid black;
+    width: 200px;
+    height: 40px;
+}
+.copy{
+    position: absolute;
+    display: inline-block;
+    height: 10px;
+    width: 300px;
+    left:10%;
+    bottom: 7%;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+    background-image: url("background website.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+.left{position: absolute;
+    border: 2px solid red;
+    display: inline-block;
+    top: 2%;
+    left: 2%;
+    text-align: center;
+}
+.left img{
+    width: 80px;
+}
+.mid{position: absolute;
+    
+    display: block;
+    top: 2%;
+    right: 60%;
+}
+.right{position: absolute;
+    border: 2px solid red;
+    display: inline-block;
+    right: 2%;
+    top: 2%;
+    padding: 2px;
+    margin:2px ;
+    font-size: 35px;
+}
+.navbar li{
+    display: inline-block;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: rgba(207, 182,99,.5);
+    border-radius: 30px;
+    
+}
+.container{
+    border:2px solid red;
+}
+.right1{
+    position: absolute;
+    display: inline-block;
+    border: 2px solid red;
+    right:5%;
+    top:50%;
+    width: 200px;
+    height: 400px;
+
+}
+.mid1{
+    background: url(/logo\ cs.webp); 
+    background-size: 300px 200px;
+    background-position: center;
+    position: absolute;
+    display: inline-block;
+    border: 2px solid red;
+    right:40%;
+    top:50%;
+    width: 200px;
+    height: 400px;
+}
+.left1{
+    position: absolute;
+    display: inline-block;
+    border: 2px solid red;
+    left:5%;
+    top:50%;
+    width: 200px;
+    height: 400px;
+} */
